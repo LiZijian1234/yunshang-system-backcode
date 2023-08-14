@@ -1,0 +1,9 @@
+
+### 申请验证码
+POST {{checkcode_host}}/checkcode/pic
+
+### 校验验证码
+POST {{checkcode_host}}/checkcode/verify?key=checkcode:943d1c9f62f34d47ac13b3f6070ee8c9&code=1TR3
+
+
+
